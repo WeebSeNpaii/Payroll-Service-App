@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Meow+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "tailwindcss";
+
+*{
+  font-family: "Montserrat", sans-serif;
+  /* background-color: #0a001f; */
+  
+ 
+}
+/* index.css */
+
+
+.main{
+  width: 100%;
+  height: 95vh;
+  position: relative;
+}
+
+video{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cards-appear {
+    @apply opacity-100 translate-y-0;
+    animation: fadeUp 0.7s ease-out forwards;
+  }
+
+    .animate-fade-up {
+    @apply opacity-100 translate-y-0;
+    animation: fadeUp 0.8s ease-out forwards;
+  }
+  .animate-fade-left {
+    @apply opacity-100 translate-x-0;
+    animation: fadeLeft 0.8s ease-out forwards;
+  }
+
+  /* optional initial styling */
+.opacity-0 {
+  opacity: 0;
+}
+.translate-y-6 {
+  transform: translateY(1.5rem);
+}
+
+/* when in view (applied by hook) */
+.in-view {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+  transition: all 0.7s ease-out;
+}
+
+
+  @keyframes fadeUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes fadeLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  .text-appear {
+    @apply transition-all duration-1000 opacity-100 translate-y-0;
+    animation: fadeUp 0.8s ease-out forwards;
+  }
+
+  @keyframes fadeUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @property --angle{
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
+  }
+
+ @keyframes gradient-animate {
+  from{
+    --angle:0deg
+  }
+  to{
+    --angle:360deg;
+  }
+}
+
+.animated-gradient-border{
+ 
+  position: relative;
+  padding: 2px;
+ 
+ 
+}
+
+.animated-gradient-border::after, .animated-gradient-border::before{
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border-radius: 9999px;
+  background-image: conic-gradient(from var(--angle),#be3ea9 ,#029fcf, #9510e2);
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  z-index: -1;
+  padding: 3px;
+  animation: 1s example linear infinite;
+  
+  
+}
+
+.animated-gradient-border:hover::before{
+
+  filter: blur(1.5rem);
+  opacity: 1;
+}
+
+.animated-card-border{
+ 
+  position: relative;
+  padding: 2px;
+ 
+ 
+}
+
+.animated-card-border::after, .animated-card-border::before{
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: conic-gradient(from var(--angle),transparent 70%,#be3ea9 ,#029fcf, #9510e2);
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  z-index: -1;
+  padding: 3px;
+  animation: 3s example linear infinite;
+  
+}
+
+.animated-card-border:hover::before{
+  filter: blur(1.5rem);
+  opacity: 1;
+}
+
+ @keyframes example {
+  from{
+    --angle:0deg
+  }
+  to{
+    --angle:360deg;
+  }
+}
+
+ @property --angle{
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
+  }
+
+
+
+  .animated-benefit-border{
+ 
+  position: relative;
+ 
+ 
+}
+
+.animated-benefit-border::after, .animated-benefit-border::before{
+  content: '';
+  position: absolute;
+  height: 105%;
+  width: 101%;
+  border-radius: 5px;
+  background-image: conic-gradient(from var(--angle),#be3ea9 ,#029fcf, #9510e2);
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  z-index: -1;
+  padding: 3px;
+  animation: 3s example linear infinite;
+  
+}
+
+.animated-benefit-border:hover::before{
+  filter: blur(1.5rem);
+  opacity: 0.7;
+}
+
+ @keyframes example {
+  from{
+    --angle:0deg
+  }
+  to{
+    --angle:360deg;
+  }
+}
+
+ @property --angle{
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
+  }
+
+
