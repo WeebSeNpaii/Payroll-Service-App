@@ -46,7 +46,7 @@ const SoftwareDevelopment = () => {
             Our Software Development Services
           </h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg text-justify">
-            At Clariquent Technologies, we specialize in building scalable,
+            At InlighnX Global, we specialize in building scalable,
             secure, and high-performing software solutions tailored to your
             unique business needs. From web and mobile apps to enterprise-level
             platforms, our expert team combines cutting-edge technology with

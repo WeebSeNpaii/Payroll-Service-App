@@ -65,7 +65,7 @@ const HireTeam = () => {
               Dedicated Teams Built Around Your Vision:
             </span>
             <br />
-            At Clariquent Technologies, we offer a unique engagement model where we build dedicated teams that function as a true extension of your in-house staff. We understand the importance of team continuity and deep domain knowledge, which is why we ensure long-term team stability and alignment with your business goals. Our hand-picked professionals are selected not just for their technical expertise, but also for their ability to integrate seamlessly with your culture and vision.
+            At InlighnX Global, we offer a unique engagement model where we build dedicated teams that function as a true extension of your in-house staff. We understand the importance of team continuity and deep domain knowledge, which is why we ensure long-term team stability and alignment with your business goals. Our hand-picked professionals are selected not just for their technical expertise, but also for their ability to integrate seamlessly with your culture and vision.
             <br /><br />
             You have full control over the selection process — interview, assess, and choose the right talent that fits your requirements. With our streamlined and proven talent acquisition process, we minimize your hiring effort while ensuring you get only the most qualified and committed experts to accelerate your project success.
           </p>
@@ -75,7 +75,7 @@ const HireTeam = () => {
               Dedicated Teams with On-Demand Expertise — Scalable. Flexible. Efficient:
             </span>
             <br />
-            At Clariquent Technologies, we not only provide dedicated, long-term engineering teams fully aligned with your business goals, but also offer access to a flexible pool of on-demand experts—ready to step in when specialized skills are needed. Whether it's software architecture, UI/UX design, technical documentation, or performance optimization, our seasoned professionals can be deployed on a short-term basis, helping you control costs while maintaining high-quality delivery.
+             At InlighnX Global, we not only provide dedicated, long-term engineering teams fully aligned with your business goals, but also offer access to a flexible pool of on-demand experts—ready to step in when specialized skills are needed. Whether it's software architecture, UI/UX design, technical documentation, or performance optimization, our seasoned professionals can be deployed on a short-term basis, helping you control costs while maintaining high-quality delivery.
             <br /><br />
             This hybrid model gives you the best of both worlds—a consistent, reliable core team backed by expert resources who can accelerate development, resolve complex challenges, and support critical project milestones exactly when you need them.
           </p>

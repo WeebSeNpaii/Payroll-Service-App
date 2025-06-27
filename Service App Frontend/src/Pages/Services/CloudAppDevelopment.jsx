@@ -41,7 +41,7 @@ const CloudAppDevelopment = () => {
             Our Cloud App Development Services
           </h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg text-justify leading-relaxed">
-            At Clariquent Technologies, we deliver cutting-edge Cloud Application Development services to clients worldwide, helping businesses scale faster, reduce infrastructure costs, and boost agility. Our expert team builds secure, high-performance cloud-native apps tailored to your goals—leveraging platforms like AWS, Azure, and Google Cloud. From development to deployment and optimization, we ensure your cloud applications are resilient, scalable, and future-ready, empowering you to innovate without limits.
+            At InlighnX Global, we deliver cutting-edge Cloud Application Development services to clients worldwide, helping businesses scale faster, reduce infrastructure costs, and boost agility. Our expert team builds secure, high-performance cloud-native apps tailored to your goals—leveraging platforms like AWS, Azure, and Google Cloud. From development to deployment and optimization, we ensure your cloud applications are resilient, scalable, and future-ready, empowering you to innovate without limits.
           </p>
         </div>
       </section>

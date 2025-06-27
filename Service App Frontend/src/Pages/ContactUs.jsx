@@ -50,7 +50,7 @@ const ContactUs = () => {
             <div className="flex flex-col gap-1">
               <h4 className="text-xl font-semibold text-white">Business Phone</h4>
               <div className="text-slate-300 text-sm">
-                <p>Email: contact@heureuxsoftware.com</p>
+                <p>Email: info@inlighnxglobal.com.com</p>
                 <p>Phone: +91 98687 07995</p>
               </div>
             </div>
@@ -62,8 +62,8 @@ const ContactUs = () => {
             <div className="flex flex-col gap-1">
               <h4 className="text-xl font-semibold text-white">Postal Address</h4>
               <p className="text-slate-300 text-sm">
-                Heureux Software Solutions (P) Ltd. B-812, Tower-B, Floor 8,
-                Advant-Navis Business Park, Sector-142, Noida-201305.
+                InlighnX Global Pvt. Ltd. (P) Ltd. B-812, Tower-B, Floor 8,
+                Advant-Navis Business Park, Sector-142,Bengaluru.
               </p>
             </div>
           </div>

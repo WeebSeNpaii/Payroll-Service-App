@@ -70,7 +70,7 @@ const Home = () => {
               visibleParaAbout ? "text-appear" : "opacity-0"
             }`}
           >
-            Clariquent Technology is a trusted software development company
+            InlighnX Global is a trusted software development company
             offering end-to-end solutions — from intuitive product design to
             seamless development, delivery, and launch. We specialize in
             creating robust web and mobile applications tailored to help you

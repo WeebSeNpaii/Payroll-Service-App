@@ -39,7 +39,7 @@ const SalesforceAppDevelopment = () => {
             Salesforce App Development
           </h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg text-justify leading-relaxed">
-            At Clariquent Technologies, we empower businesses by aligning their IT strategy with core business goals—maximizing the value of your technology investments. Our seasoned experts deliver transformational impact through strategic consulting and hands-on implementation, helping organizations achieve agility, efficiency, and growth.
+             At InlighnX Global, we empower businesses by aligning their IT strategy with core business goals—maximizing the value of your technology investments. Our seasoned experts deliver transformational impact through strategic consulting and hands-on implementation, helping organizations achieve agility, efficiency, and growth.
             <br /><br />
             We specialize in crafting and executing robust Cloud Strategies, and offer comprehensive Salesforce Consulting, Implementation, and Integration services, including seamless application migration. Whether you're just starting or scaling your Salesforce journey, we help you plan, design, and implement complete Salesforce-based solutions tailored to your unique business needs.
             <br /><br />

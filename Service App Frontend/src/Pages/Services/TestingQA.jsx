@@ -114,7 +114,7 @@ const TestingQA = () => {
             Testing & QA
           </h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg text-justify leading-relaxed">
-            At Clariquent Technologies, we deliver comprehensive Software Testing Services designed to elevate the quality and reliability of your applications. From functional verification to end-to-end testing, defect management, business flow validation, and usability testing, our testing solutions are tailored to ensure flawless user experiences and business outcomes.
+             At InlighnX Global, we deliver comprehensive Software Testing Services designed to elevate the quality and reliability of your applications. From functional verification to end-to-end testing, defect management, business flow validation, and usability testing, our testing solutions are tailored to ensure flawless user experiences and business outcomes.
             <br />
             <br />
             With proven expertise across diverse application domains, we have built specialized testing frameworks that ensure consistency, speed, and accuracy. Our Testing Centre of Excellence (TCoE) unifies key assets — including processes, infrastructure, tools, and skilled professionals — under a strategic, agile framework that drives operational efficiency, enhances team productivity, and significantly improves product quality.

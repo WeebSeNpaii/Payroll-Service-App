@@ -38,7 +38,7 @@ const MobileAppDevelopment = () => {
             Seamless Native and Cross Platforms App Development
           </h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg text-justify leading-relaxed">
-            At Clariquent Technologies, we craft intuitive and user-friendly mobile experiences for both iOS and Android platforms. Backed by our Center of Excellence and a highly skilled team of architects, developers, and QA experts, we deliver secure, scalable, and high-performing custom mobile applications using the latest technologies and modern programming languages — tailored to any mobile platform or operating system.
+            At InlighnX Global, we craft intuitive and user-friendly mobile experiences for both iOS and Android platforms. Backed by our Center of Excellence and a highly skilled team of architects, developers, and QA experts, we deliver secure, scalable, and high-performing custom mobile applications using the latest technologies and modern programming languages — tailored to any mobile platform or operating system.
             <br /><br />
             Our mobile app development services are driven by a design-first approach. Our dedicated UI/UX design team works closely with you to create visually stunning and highly usable interfaces. These designs are then brought to life with pixel-perfect precision by our expert development team.
             <br /><br />

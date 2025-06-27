@@ -24,7 +24,7 @@ const Header = () => {
       <div className="relative h-full flex items-center justify-between">
         {/* Logo */}
         <Link to="/">
-          <img className="h-16 md:h-19" src={Companylogo} alt="Logo" />
+          <img className="h-14 md:h-18 rounded-full object-cover" src={Companylogo} alt="Logo" />
         </Link>
 
         {/* Center Nav */}
